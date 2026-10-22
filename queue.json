@@ -1,6 +1,6 @@
 {
  "marke": "codechaos",
- "stand": "2026-10-22T13:05+02:00",
+ "stand": "2026-10-22T17:05+02:00",
  "posts": [
   {
    "id": "2026-10-22_mastering_genre",
@@ -21,6 +21,14 @@
    "image_urls": [],
    "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-10-23_bts_uhrwerk/Reel_BTS_Uhrwerk_9x16.mp4",
    "thumb_offset": 4000
+  },
+  {
+   "id": "2026-10-23_plugin_p02_arsenal",
+   "due": "2026-10-23T17:00+02:00",
+   "caption": "Every kick in Hitech Arsenal Vol. 1 is tuned to a key. I measured them: the F# kick sits at 46.2 Hz, F at 43.7, G at 49.0, E at 41.2. Each one lands on its note.\n\nThe loops are cut to whole bars. A 200 BPM bass loop is 211,680 samples at 44.1 kHz: exactly four bars, so it locks to the grid.\n\nIn the video: Rolling, Growl and Snappy kick+bass loops, then an FM sequence in the same key on top, all straight from the pack in Ableton.\n\n120 sounds: 12 kicks, 16 bass one-shots, 12 bass loops, 12 FM leads, 8 stabs, 25 glitch perc, 12 hats, 15 FX, 8 synth loops. 24-bit WAV, every file labelled with key and BPM, royalty-free for your own releases. 15 €, link in bio.\n\n#codechaos #samplepack #hitech #psycore #newpsychedelicdeathart",
+   "image_urls": [],
+   "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-10-23_plugin_p02_arsenal/cc_plugin_p02_arsenal_9x16.mp4",
+   "thumb_offset": 600
   }
  ]
 }
