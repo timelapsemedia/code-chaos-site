@@ -1,6 +1,6 @@
 {
  "marke": "codechaos",
- "stand": "2026-10-23T14:05+02:00",
+ "stand": "2026-10-23T15:05+02:00",
  "posts": [
   {
    "id": "2026-10-23_plugin_p02_arsenal",
@@ -9,6 +9,14 @@
    "image_urls": [],
    "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-10-23_plugin_p02_arsenal/cc_plugin_p02_arsenal_9x16.mp4",
    "thumb_offset": 600
+  },
+  {
+   "id": "2026-10-24_bts_uhrwerk_v2",
+   "due": "2026-10-24T12:30+02:00",
+   "caption": "Hinter den Kulissen: der Drop von Uhrwerk aus Blut, direkt aus meiner Ableton-Session. 104 Spuren, 210 BPM.\n\nAuf dem Lead-Bus: Hochpass bei 150 Hz, Glue-Kompressor 2:1, Echo auf 1/8 punktiert, Dark Hall mit 2,4 s Nachhall.\n\nFreitag, 30.10. Pre-Save über den Link in der Bio.\n\n#codechaos #hitech #psytrance #newpsychedelicdeathart #abletonlive",
+   "image_urls": [],
+   "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-10-24_bts_uhrwerk_v2/Reel_BTS_Uhrwerk_v2_9x16.mp4",
+   "thumb_offset": 4000
   }
  ]
 }
