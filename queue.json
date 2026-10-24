@@ -1,6 +1,6 @@
 {
  "marke": "codechaos",
- "stand": "2026-10-23T15:05+02:00",
+ "stand": "2026-10-24T13:05+02:00",
  "posts": [
   {
    "id": "2026-10-23_plugin_p02_arsenal",
@@ -17,6 +17,14 @@
    "image_urls": [],
    "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-10-24_bts_uhrwerk_v2/Reel_BTS_Uhrwerk_v2_9x16.mp4",
    "thumb_offset": 4000
+  },
+  {
+   "id": "2026-10-24_learn_e04_snare",
+   "due": "2026-10-24T17:00+02:00",
+   "caption": "This hitech snare is three sounds hitting at the same time.\n\nLayers one and two: a 909 snare and a 909 clap in a Drum Rack, same notes on beats two and four. EQ Eight cuts them below 180 Hz and adds 2 dB at 3.2 kHz, then Shifter in ring mode at 180 Hz, 30 % wet, adds a metallic ring.\n\nLayer three is the zap: Operator, a sine plus white noise at -8 dB. A pitch envelope drops the sine 36 semitones in 45 ms. Measured, it is 20 dB down after 23 ms. EQ Eight cuts it below 400 Hz, so the low end stays free for kick and bass.\n\nTogether: the 909 is brightest above 5 kHz, the zap fills 1 to 5 kHz.\n\nFrom my new track Uhrwerk aus Blut, out 30.10. Part 5 next: the FM leads.\n\n#codechaos #sounddesign #abletonlive #hitech #newpsychedelicdeathart",
+   "image_urls": [],
+   "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-10-24_learn_e04_snare/cc_learn_e04_snare_9x16.mp4",
+   "thumb_offset": 600
   }
  ]
 }
