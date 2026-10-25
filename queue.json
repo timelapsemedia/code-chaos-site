@@ -1,5 +1,14 @@
 {
  "marke": "codechaos",
- "stand": "2026-10-24T18:05+02:00",
- "posts": []
+ "stand": "2026-10-25T11:05+01:00",
+ "posts": [
+  {
+   "id": "2026-10-25_motion_crucible",
+   "due": "2026-10-25T19:00+01:00",
+   "caption": "Derselbe Psy-Loop, zweimal. Erst dry, dann mit Crucible.\n\nBeide Versionen sind gleich laut, du hörst also Ton und Dichte statt Lautstärke. Low Hard Clip 12 dB, Mid Tube 9 dB, High Tape 6 dB.\n\nSame psy loop, dry vs. Crucible, loudness-matched.\n\nCrucible ist mein 3-Band-Saturation-Plugin: fünf Sättigungstypen, bis zu 8x Oversampling, VST3 und Standalone für Windows. 19 € auf codechaos-official.de\n\n#codechaos #saturation #psytrance #hitech #psycore",
+   "image_urls": [],
+   "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-10-25_motion_crucible/Motion_Crucible_Dry_vs_Wet_9x16.mp4",
+   "thumb_offset": 2600
+  }
+ ]
 }
