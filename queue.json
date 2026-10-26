@@ -1,6 +1,6 @@
 {
  "marke": "codechaos",
- "stand": "2026-10-25T11:05+01:00",
+ "stand": "2026-10-26T15:05+01:00",
  "posts": [
   {
    "id": "2026-10-25_motion_crucible",
@@ -9,6 +9,14 @@
    "image_urls": [],
    "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-10-25_motion_crucible/Motion_Crucible_Dry_vs_Wet_9x16.mp4",
    "thumb_offset": 2600
+  },
+  {
+   "id": "2026-10-26_release_countdown",
+   "due": "2026-10-26T17:00+01:00",
+   "caption": "Eins. Zwei. Vier. Acht. Noch vier Tage.\n\nAm Freitag, 30.10., erscheint Uhrwerk aus Blut. Im Reel hörst du die Stelle, an der sich das Herz verdoppelt, und den Drop gleich danach. 210 BPM.\n\nOne, two, four, eight. It's out Friday. I'm counting the days, you count with me.\n\nPre-Save über den Link in der Bio.\n\n(Bild mit KI erstellt)\n#codechaos #newpsychedelicdeathart #hitech #psycore #gothic",
+   "image_urls": [],
+   "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-10-26_release_countdown/Reel_Countdown_9x16.mp4",
+   "thumb_offset": 300
   }
  ]
 }
