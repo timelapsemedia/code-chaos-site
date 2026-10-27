@@ -1,15 +1,7 @@
 {
  "marke": "codechaos",
- "stand": "2026-10-26T15:05+01:00",
+ "stand": "2026-10-27T08:06+01:00",
  "posts": [
-  {
-   "id": "2026-10-25_motion_crucible",
-   "due": "2026-10-25T19:00+01:00",
-   "caption": "Derselbe Psy-Loop, zweimal. Erst dry, dann mit Crucible.\n\nBeide Versionen sind gleich laut, du hörst also Ton und Dichte statt Lautstärke. Low Hard Clip 12 dB, Mid Tube 9 dB, High Tape 6 dB.\n\nSame psy loop, dry vs. Crucible, loudness-matched.\n\nCrucible ist mein 3-Band-Saturation-Plugin: fünf Sättigungstypen, bis zu 8x Oversampling, VST3 und Standalone für Windows. 19 € auf codechaos-official.de\n\n#codechaos #saturation #psytrance #hitech #psycore",
-   "image_urls": [],
-   "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-10-25_motion_crucible/Motion_Crucible_Dry_vs_Wet_9x16.mp4",
-   "thumb_offset": 2600
-  },
   {
    "id": "2026-10-26_release_countdown",
    "due": "2026-10-26T17:00+01:00",
@@ -17,6 +9,22 @@
    "image_urls": [],
    "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-10-26_release_countdown/Reel_Countdown_9x16.mp4",
    "thumb_offset": 300
+  },
+  {
+   "id": "2026-10-27_track_uhrwerk-drop1",
+   "due": "2026-10-27T12:00+01:00",
+   "caption": "210 Schläge pro Minute, Orchester und Glocken. Noch drei Tage.\n\nDas ist ein Stück aus dem Drop von Uhrwerk aus Blut. Freitag, 30.10., ist der ganze Track draußen, mit der gesprochenen Geschichte drumherum.\n\n210 BPM, orchestra and bells. Out Friday.\n\nPre-Save über den Link in der Bio.\n\n(Bild mit KI erstellt)\n#codechaos #newpsychedelicdeathart #hitech #psycore #gothic",
+   "image_urls": [],
+   "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-10-27_track_uhrwerk-drop1/cc_track_uhrwerk-drop1_9x16.mp4",
+   "thumb_offset": 600
+  },
+  {
+   "id": "2026-10-27_mastering_lowend",
+   "due": "2026-10-27T18:00+01:00",
+   "caption": "Kick und Bass, 30 bis 150 Hz. Erst der Mixdown, dann der Master.\n\n8 Takte aus „Uhrwerk aus Blut“, im Video live gemessen: Im Master liegt das Low-End 5,8 dB höher als im Mixdown, das Verhältnis zum restlichen Mix bleibt gleich. Der Track erscheint am 30.10.\n\nKick and bass, 30 to 150 Hz. Mixdown first, then the master: +5.8 dB in the low end, same balance to the rest of the mix.\n\nMastering für Psycore, Hitech und Darkpsy:\nSingle 79 € · EP 349 € · Album 629 €, unbegrenzte Korrekturen.\nAnfrage über codechaos-official.de oder per DM.\n\n#mastering #psycore #hitech #darkpsy #psytrance",
+   "image_urls": [],
+   "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-10-27_mastering_lowend/Reel_Mastering_Low_End_9x16.mp4",
+   "thumb_offset": 1500
   }
  ]
 }
