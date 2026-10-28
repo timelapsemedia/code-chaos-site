@@ -1,6 +1,6 @@
 {
  "marke": "codechaos",
- "stand": "2026-10-28T14:05+01:00",
+ "stand": "2026-10-28T17:05+01:00",
  "posts": [
   {
    "id": "2026-10-29_plugin_p03_chaosfm",
@@ -8,6 +8,14 @@
    "caption": "This bass is one plugin: Chaos FM, my FM synth.\n\nThree operators: A is the carrier, B and C modulate it, each with its own ratio, level and ADSR. Three algorithms, feedback on C, a zero-delay lowpass with drive. The preset in the video is Psycore Growl Bass: C into B into A, feedback on C, drive at 80 %.\n\n12 factory presets, and a GENERATE button that rolls a fresh patch for Lead, Bass, Acid, Stab, Pluck or FX. Up to 4 unison voices, mono/legato with glide. VST3 + Standalone for Windows.\n\nThe demo is the complete synth with a short quiet noise burst every 45 seconds. Full version 19 €. Link in bio.\n\n#codechaos #fmsynth #audioplugin #sounddesign #newpsychedelicdeathart",
    "image_urls": [],
    "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-10-29_plugin_p03_chaosfm/cc_plugin_p03_chaosfm_9x16.mp4",
+   "thumb_offset": 600
+  },
+  {
+   "id": "2026-10-29_learn_e05_fm",
+   "due": "2026-10-29T17:00+01:00",
+   "caption": "Twelve synths, and all twelve play in under six seconds.\n\nEvery lead in this hitech track is its own Vital on its own track, FM01 to FM12. They almost never play at the same time: one synth calls, the next one answers. Most phrases last half a beat, in 1/16 and 1/32 notes.\n\nIt works like a relay: two synths trade notes, then a new one answers and the old one drops out. The notes jump from G2 up to C6, almost three and a half octaves, and 7 of the 12 sit off center, up to 15 left and right.\n\nFrom my new track Uhrwerk aus Blut, out 30.10. Part 6 next: the kick sweeps.\n\n#codechaos #sounddesign #abletonlive #hitech #newpsychedelicdeathart",
+   "image_urls": [],
+   "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-10-29_learn_e05_fm/cc_learn_e05_fm_9x16.mp4",
    "thumb_offset": 600
   }
  ]
