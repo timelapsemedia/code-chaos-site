@@ -1,6 +1,6 @@
 {
  "marke": "codechaos",
- "stand": "2026-10-27T20:05+01:00",
+ "stand": "2026-10-28T13:05+01:00",
  "posts": [
   {
    "id": "2026-10-28_track_uhrwerk-erster-drop",
@@ -8,6 +8,14 @@
    "caption": "Erst hundertfünf Schläge pro Minute, dann das Doppelte. Übermorgen ist Uhrwerk aus Blut draußen.\n\nDas hier ist ein Stück daraus. Am Freitag, 30.10., kommt der ganze Track mit der gesprochenen Geschichte, mit Orchester und Glocken.\n\nIt starts at 105 BPM. Then it doubles. Out Friday.\n\nPre-Save über den Link in der Bio.\n\n(Bild mit KI erstellt)\n#codechaos #newpsychedelicdeathart #hitech #psycore #gothic",
    "image_urls": [],
    "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-10-28_track_uhrwerk-erster-drop/cc_track_uhrwerk-erster-drop_9x16.mp4",
+   "thumb_offset": 600
+  },
+  {
+   "id": "2026-10-29_plugin_p03_chaosfm",
+   "due": "2026-10-29T12:00+01:00",
+   "caption": "This bass is one plugin: Chaos FM, my FM synth.\n\nThree operators: A is the carrier, B and C modulate it, each with its own ratio, level and ADSR. Three algorithms, feedback on C, a zero-delay lowpass with drive. The preset in the video is Psycore Growl Bass: C into B into A, feedback on C, drive at 80 %.\n\n12 factory presets, and a GENERATE button that rolls a fresh patch for Lead, Bass, Acid, Stab, Pluck or FX. Up to 4 unison voices, mono/legato with glide. VST3 + Standalone for Windows.\n\nThe demo is the complete synth with a short quiet noise burst every 45 seconds. Full version 19 €. Link in bio.\n\n#codechaos #fmsynth #audioplugin #sounddesign #newpsychedelicdeathart",
+   "image_urls": [],
+   "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-10-29_plugin_p03_chaosfm/cc_plugin_p03_chaosfm_9x16.mp4",
    "thumb_offset": 600
   }
  ]
