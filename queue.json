@@ -1,6 +1,6 @@
 {
  "marke": "codechaos",
- "stand": "2026-10-30T09:05+01:00",
+ "stand": "2026-10-30T17:05+01:00",
  "posts": [
   {
    "id": "2026-10-30_release_out_now",
@@ -9,6 +9,14 @@
    "image_urls": [],
    "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-10-30_release_out_now/Reel_Release_9x16.mp4",
    "thumb_offset": 300
+  },
+  {
+   "id": "2026-10-31_learn_e06_sweeps",
+   "due": "2026-10-31T17:00+01:00",
+   "caption": "In the break, my kick fades out every two bars. On purpose.\n\nIt's the same DS Kick settings as the main kick's sub layer, but through an Auto Filter high-pass at 25 Hz with an LFO ramp (62 %) pushing the cutoff up. Measured: over two bars the hits fall by 53 dB, then the filter snaps back.\n\nOn top, Beat Repeat: every two bars, on beat four (offset 12/16), it repeats the kick in 1/32 notes for one beat. Eight hits. Then the drop comes in at full level.\n\nFrom Uhrwerk aus Blut, out now. Part 7 next: the scream.\n\n#codechaos #sounddesign #abletonlive #hitech #newpsychedelicdeathart",
+   "image_urls": [],
+   "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-10-31_learn_e06_sweeps/cc_learn_e06_sweeps_9x16.mp4",
+   "thumb_offset": 600
   }
  ]
 }
