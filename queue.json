@@ -1,6 +1,6 @@
 {
  "marke": "codechaos",
- "stand": "2026-10-30T18:05+01:00",
+ "stand": "2026-11-01T09:45+01:00",
  "posts": [
   {
    "id": "2026-10-31_learn_e06_sweeps",
@@ -8,6 +8,14 @@
    "caption": "In the break, my kick fades out every two bars. On purpose.\n\nIt's the same DS Kick settings as the main kick's sub layer, but through an Auto Filter high-pass at 25 Hz with an LFO ramp (62 %) pushing the cutoff up. Measured: over two bars the hits fall by 53 dB, then the filter snaps back.\n\nOn top, Beat Repeat: every two bars, on beat four (offset 12/16), it repeats the kick in 1/32 notes for one beat. Eight hits. Then the drop comes in at full level.\n\nFrom Uhrwerk aus Blut, out now. Part 7 next: the scream.\n\n#codechaos #sounddesign #abletonlive #hitech #newpsychedelicdeathart",
    "image_urls": [],
    "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-10-31_learn_e06_sweeps/cc_learn_e06_sweeps_9x16.mp4",
+   "thumb_offset": 600
+  },
+  {
+   "id": "2026-11-01_learn_e07_scream",
+   "due": "2026-11-01T12:00+01:00",
+   "caption": "The loudest tone in this scream is not played by the synth.\n\nOperator makes a saw plus a feedback sine 13 times higher, through a band-pass at 9 kHz with 88 % resonance. With Redux off, I measured the energy at 5.9 and 7.6 kHz. Redux resamples at 8.14 kHz, so everything above 4.07 kHz folds back down: 8.14 - 5.9 = 2.2 kHz. With Redux on, 2.2 kHz is the loudest peak. Aliasing, used on purpose.\n\nThe bit depth is automated too: the first three screams get 7, 11 and 15 bits.\n\nFrom Uhrwerk aus Blut, out now. Part 8 next: the gothic layer.\n\n#codechaos #sounddesign #abletonlive #hitech #newpsychedelicdeathart",
+   "image_urls": [],
+   "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-11-01_learn_e07_scream/cc_learn_e07_scream_9x16.mp4",
    "thumb_offset": 600
   }
  ]
