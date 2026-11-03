@@ -1,6 +1,6 @@
 {
  "marke": "codechaos",
- "stand": "2026-11-02T18:05+01:00",
+ "stand": "2026-11-03T12:05+01:00",
  "posts": [
   {
    "id": "2026-11-03_track_uhrwerk-herz",
@@ -22,6 +22,14 @@
    ],
    "video_url": null,
    "thumb_offset": null
+  },
+  {
+   "id": "2026-11-04_track_uhrwerk-finale",
+   "due": "2026-11-04T12:00+01:00",
+   "caption": "Ein Uhrwerk, das blutet. Es beginnt bei 105 BPM, dann kommt das Doppelte.\n\nUhrwerk aus Blut ist draußen. A clockwork that bleeds. Out now.\n\nLink in der Bio.\n\n(Bild mit KI erstellt)\n#newpsychedelicdeathart #codechaos",
+   "image_urls": [],
+   "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-11-04_track_uhrwerk-finale/cc_track_uhrwerk-finale_9x16.mp4",
+   "thumb_offset": 600
   }
  ]
 }
