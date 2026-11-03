@@ -1,20 +1,7 @@
 {
  "marke": "codechaos",
- "stand": "2026-11-03T17:05+01:00",
+ "stand": "2026-11-03T19:05+01:00",
  "posts": [
-  {
-   "id": "2026-11-03_mastering_checkliste",
-   "due": "2026-11-03T18:00+01:00",
-   "caption": "Mixdown-Checkliste fürs Mastering. Speichern für dein nächstes Release.\n\n1. WAV oder AIFF in der Samplerate des Projekts, 24 oder 32 Bit.\n2. Kein Limiter oder Clipper auf dem Master-Bus, Peaks um −6 bis −3 dBFS.\n3. In die Anfrage: Genre, Anzahl der Tracks, Deadline und ein Referenztrack.\n\nSave this before you bounce: WAV or AIFF at project sample rate, 24 or 32 bit, no limiter on the master bus, peaks around −6 to −3 dBFS.\n\nSingle 79 € · EP 349 € · Album 629 €, Audio-Audit und unbegrenzte Korrekturen inklusive.\nAnfrage über codechaos-official.de oder per DM.\n\n#mastering #psycore #hitech #darkpsy #psytrance",
-   "image_urls": [
-    "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-11-03_mastering_checkliste/m3_checkliste_1_4x5.jpg",
-    "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-11-03_mastering_checkliste/m3_checkliste_2_4x5.jpg",
-    "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-11-03_mastering_checkliste/m3_checkliste_3_4x5.jpg",
-    "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-11-03_mastering_checkliste/m3_checkliste_4_4x5.jpg"
-   ],
-   "video_url": null,
-   "thumb_offset": null
-  },
   {
    "id": "2026-11-04_track_uhrwerk-finale",
    "due": "2026-11-04T12:00+01:00",
