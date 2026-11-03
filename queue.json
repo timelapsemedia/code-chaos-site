@@ -1,6 +1,6 @@
 {
  "marke": "codechaos",
- "stand": "2026-11-03T13:05+01:00",
+ "stand": "2026-11-03T17:05+01:00",
  "posts": [
   {
    "id": "2026-11-03_mastering_checkliste",
@@ -21,6 +21,14 @@
    "caption": "Ein Uhrwerk, das blutet. Es beginnt bei 105 BPM, dann kommt das Doppelte.\n\nUhrwerk aus Blut ist draußen. A clockwork that bleeds. Out now.\n\nLink in der Bio.\n\n(Bild mit KI erstellt)\n#newpsychedelicdeathart #codechaos",
    "image_urls": [],
    "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-11-04_track_uhrwerk-finale/cc_track_uhrwerk-finale_9x16.mp4",
+   "thumb_offset": 600
+  },
+  {
+   "id": "2026-11-04_learn_e08_gothic",
+   "due": "2026-11-04T17:00+01:00",
+   "caption": "Seven orchestra tracks play in this hitech drop. Every single one sits on a steep high-pass.\n\nEQ Eight, 48 dB per octave: organ and brass at 200 Hz, choir and trumpet at 220, pizzicato at 250, glockenspiel at 400, marimba at 150. For a test I switched all seven off: below 150 Hz the orchestra got 22 dB louder, while 150 Hz to 6 kHz changed by 0.1 dB. So the orchestra keeps its sound and the low end stays free for kick and bass.\n\nThe parts also split by length: organ and choir hold each chord for two bars, pizzicato and marimba play notes under half a beat.\n\nFrom Uhrwerk aus Blut, out now. Part 9 next: the EQ on my master.\n\n#codechaos #sounddesign #abletonlive #hitech #newpsychedelicdeathart",
+   "image_urls": [],
+   "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-11-04_learn_e08_gothic/cc_learn_e08_gothic_9x16.mp4",
    "thumb_offset": 600
   }
  ]
