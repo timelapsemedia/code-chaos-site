@@ -1,15 +1,7 @@
 {
  "marke": "codechaos",
- "stand": "2026-11-05T14:05+01:00",
+ "stand": "2026-11-05T18:05+01:00",
  "posts": [
-  {
-   "id": "2026-11-05_plugin_p04_vital",
-   "due": "2026-11-05T17:00+01:00",
-   "caption": "The oscillator that shapes this lead is one you never hear.\n\nIn my Hitech FM presets for Vital, oscillator 2 sits at level zero and only frequency-modulates oscillator 1 (FM <- OSC 2). An envelope and your velocity set the FM depth, and velocity opens the filter too. Leads and basses are one voice, legato, with glide. The bass in the video, Rot Roller, drops oscillators 1 and 2 by two octaves and lets oscillator 2 modulate oscillator 3 as well.\n\n32 presets: 12 leads, 8 basses, 6 plucks, 6 FX. Works with the free version of Vital (1.5.5 or newer). Link in bio.\n\n#codechaos #vital #fmsynthesis #sounddesign #newpsychedelicdeathart",
-   "image_urls": [],
-   "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-11-05_plugin_p04_vital/cc_plugin_p04_vital_9x16.mp4",
-   "thumb_offset": 600
-  },
   {
    "id": "2026-11-06_track_uhrwerk-maschine",
    "due": "2026-11-06T12:00+01:00",
