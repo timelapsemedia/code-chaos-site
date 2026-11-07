@@ -1,6 +1,6 @@
 {
  "marke": "codechaos",
- "stand": "2026-11-06T13:05+01:00",
+ "stand": "2026-11-07T20:59+01:00",
  "posts": [
   {
    "id": "2026-11-07_track_uhrwerk-komm-naeher",
@@ -8,6 +8,22 @@
    "caption": "Zwischen zwei Schlägen ist ein Raum. Dort warte ich auf dich.\n\nUhrwerk aus Blut ist draußen. Link in der Bio.\n\n(Bild mit KI erstellt)\n#newpsychedelicdeathart #codechaos",
    "image_urls": [],
    "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-11-07_track_uhrwerk-komm-naeher/cc_track_uhrwerk-komm-naeher_9x16.mp4",
+   "thumb_offset": 600
+  },
+  {
+   "id": "2026-11-07_mastering_club_streaming",
+   "due": "2026-11-07T18:00+01:00",
+   "caption": "Ein Track, zwei Master. Dieselben 8 Takte aus „Uhrwerk aus Blut“, im Video live gemessen: der Club-Master bei −6,4 LUFS, der Streaming-Master bei −9,3 LUFS.\n\nOne track, two masters: club −6.4 LUFS, streaming −9.3 LUFS, same 8 bars.\n\nMastering für Psycore, Hitech und Darkpsy:\nSingle 79 € · EP 349 € · Album 629 €, unbegrenzte Korrekturen.\nNenn in der Anfrage Genre, Deadline und einen Referenztrack: codechaos-official.de oder per DM.\n\n#mastering #psycore #hitech #darkpsy #psytrance",
+   "image_urls": [],
+   "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-11-07_mastering_club_streaming/Reel_Mastering_Club_vs_Streaming_9x16.mp4",
+   "thumb_offset": 1500
+  },
+  {
+   "id": "2026-11-08_learn_m01_master_eq",
+   "due": "2026-11-08T17:00+01:00",
+   "caption": "My master EQ cuts 300 Hz by 8.5 dB.\n\nIt's the first device on the master of Uhrwerk aus Blut: EQ Eight with -8.5 dB at 300 Hz, -5 dB at 650 Hz, a +6 dB low shelf at 70 Hz and high shelves at 3.2, 11 and 12 kHz.\n\nI switched it off and measured the master output. 200 to 800 Hz got 7 to 8 dB louder, above 10 kHz it lost 16 dB, below 60 Hz 5 to 6 dB. Same limiter after it, and with the EQ on the master is even 0.6 LU quieter.\n\nThe fine work sits in a second EQ right before Pro-L 2: high-pass at 28 Hz, no move over 2.5 dB.\n\nUhrwerk aus Blut is out now. Part 10 next: my kick without its pitch envelope.\n\n#codechaos #mastering #abletonlive #hitech #newpsychedelicdeathart",
+   "image_urls": [],
+   "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-11-08_learn_m01_master_eq/cc_learn_m01_master_eq_9x16.mp4",
    "thumb_offset": 600
   }
  ]
