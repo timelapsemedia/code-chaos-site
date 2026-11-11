@@ -1,15 +1,7 @@
 {
  "marke": "codechaos",
- "stand": "2026-11-11T17:05+01:00",
+ "stand": "2026-11-11T18:05+01:00",
  "posts": [
-  {
-   "id": "2026-11-11_learn_kick_p2_pitchenv",
-   "due": "2026-11-11T17:00+01:00",
-   "caption": "I switched off my kick's pitch envelope. It got 16 dB more sub.\n\nDS Kick in Ableton, three layers, Env normally at 68.2 %. After 50 ms the kick is still at 90 Hz. With Env at 0 it's at 45 Hz at the same moment.\n\nMeasured on the kick bus: same loudness (-12.2 vs -12.1 LUFS), but +16 dB below 60 Hz and -4 dB from 60 to 120 Hz. It also rings: 155 ms to fall 40 dB instead of 85.\n\nDecay is the other knob. At 27.6 % the kick never falls below -19 dB before the next hit. At my 4.5 % it drops to -83 dB between kicks. That gap is the room for the bass.\n\nUhrwerk aus Blut is out now. Part 11 next: the bass groove.",
-   "image_urls": [],
-   "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-11-11_learn_kick_p2_pitchenv/cc_learn_kick_p2_pitchenv_9x16.mp4",
-   "thumb_offset": 600
-  },
   {
    "id": "2026-11-12_plugin_p05_serum",
    "due": "2026-11-12T17:00+01:00",
