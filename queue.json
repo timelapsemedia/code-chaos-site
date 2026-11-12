@@ -1,5 +1,14 @@
 {
  "marke": "codechaos",
- "stand": "2026-11-12T18:05+01:00",
- "posts": []
+ "stand": "2026-11-12T20:05+01:00",
+ "posts": [
+  {
+   "id": "2026-11-13_wg1_short_1",
+   "due": "2026-11-13T19:00+01:00",
+   "caption": "Um drei Uhr nachts zeigte der Fernseher nur noch eine Zahl.\n\nError 666, Track 1 von Wiedergänger Vol. I. 185 BPM, Orgel und Glocken, dazu ein Drop wie eine Fehlermeldung. Am 04.12. überall.\n\n(Bild mit KI erstellt)\n#codechaos #hitech #psycore #newpsychedelicdeathart #gothic",
+   "image_urls": [],
+   "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-11-13_wg1_short_1/wg1_short_1_error666_9x16.mp4",
+   "thumb_offset": 500
+  }
+ ]
 }
