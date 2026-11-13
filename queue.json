@@ -1,6 +1,6 @@
 {
  "marke": "codechaos",
- "stand": "2026-11-13T13:07+01:00",
+ "stand": "2026-11-13T17:05+01:00",
  "posts": [
   {
    "id": "2026-11-13_wg1_short_1",
@@ -16,6 +16,14 @@
    "caption": "Error 666 hat zwei Hälften. Teil I steht in B-lokrisch. Nach dem Hauptbreak kippt der ganze Track einen Tritonus nach oben, nach F-lokrisch. Dieses Intervall hieß früher diabolus in musica, der Teufel in der Musik.\n\nDas ist kein Trick, das ist die Geschichte: Einer wacht um drei Uhr nachts auf, und im Spiegel steht schon einer, der wach ist und sein Gesicht hat. Zwei Tonarten, zwei Gesichter, eine Achse.\n\nWas du hier hörst, ist der erste Peak von Teil II. 185 BPM.\n\nError 666 is split in two. Part one sits in B locrian. After the main break the whole track jumps a tritone up to F locrian, the interval once called diabolus in musica.\n\nWiedergänger Vol. I · Was nicht ruhen will. Am 04.12. überall.\n\n(Bild mit KI erstellt)\n#newpsychedelicdeathart #codechaos #hitech #psycore #gothic",
    "image_urls": [],
    "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-11-14_track_error666-tritonus/cc_track_error666-tritonus_9x16.mp4",
+   "thumb_offset": 600
+  },
+  {
+   "id": "2026-11-14_learn_bass_p2_groove",
+   "due": "2026-11-14T17:00+01:00",
+   "caption": "This rolling bass has one hole per beat. The kick lives there. Uhrwerk aus Blut is out now. Part 12: the hats.",
+   "image_urls": [],
+   "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-11-14_learn_bass_p2_groove/cc_learn_bass_p2_groove_9x16.mp4",
    "thumb_offset": 600
   }
  ]
