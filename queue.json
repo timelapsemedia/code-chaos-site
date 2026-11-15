@@ -1,5 +1,14 @@
 {
  "marke": "codechaos",
- "stand": "2026-11-15T13:05+01:00",
- "posts": []
+ "stand": "2026-11-15T19:05+01:00",
+ "posts": [
+  {
+   "id": "2026-11-16_track_error666-laser",
+   "due": "2026-11-16T19:00+01:00",
+   "caption": "Das ist kein Laser. Das ist FM.\n\nDie Screeches in Error 666 kommen aus einer FM-Stimme mit festem Modulator auf 30 Hz und Modulationsindex 171. Zu 88 % inharmonisch, keine Melodie. Sie feuern in 16tel- und Triolen-Bursts und springen im Panorama hin und her. Die 30 Hz sind kein Ton, sondern ein Flimmern, wie die Zeilen eines alten Röhrenfernsehers, der um drei Uhr nachts nur noch eine Zahl zeigt.\n\nThat's not a laser, it's FM: a fixed 30 Hz modulator, index 171, 88 % inharmonic, fired in 16th and triplet bursts across the stereo field.\n\nError 666, Track 1 von Wiedergänger Vol. I. Am 04.12. überall.\n\n(Bild mit KI erstellt)\n#newpsychedelicdeathart #codechaos #hitech #psycore #sounddesign",
+   "image_urls": [],
+   "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-11-16_track_error666-laser/cc_track_error666-laser_9x16.mp4",
+   "thumb_offset": 600
+  }
+ ]
 }
