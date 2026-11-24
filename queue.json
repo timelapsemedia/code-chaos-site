@@ -1,6 +1,6 @@
 {
  "marke": "codechaos",
- "stand": "2026-11-24T13:05+01:00",
+ "stand": "2026-11-24T17:05+01:00",
  "posts": [
   {
    "id": "2026-11-25_track_error666-peak",
@@ -8,6 +8,14 @@
    "caption": "the mirror has your face.\n\nPart II of Error 666 sits in F locrian, a tritone above the B locrian of part I. Over it run FM laser screeches on a fixed 30 Hz modulator. The title means a bug in God's code, and the double in the bathroom mirror is already awake. 185 BPM, Track 1 of Wiedergänger Vol. I.\n\nTeil II von Error 666 steht in F-lokrisch, einen Tritonus über dem B-lokrisch von Teil I. Darüber laufen FM-Laser auf einem festen 30-Hz-Modulator. Der Titel meint einen Fehler im Code Gottes, und der Doppelgänger im Badspiegel ist schon wach. 185 BPM, Track 1 von Wiedergänger Vol. I.\n\nOut everywhere 04.12. / Am 04.12. überall.\n\n(Image created with AI / Bild mit KI erstellt)\n\nWould you look into that mirror at 3 a.m.?\n#newpsychedelicdeathart #codechaos #hitech #psycore #darkpsy",
    "image_urls": [],
    "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-11-25_track_error666-peak/cc_track_error666-peak_9x16.mp4",
+   "thumb_offset": 600
+  },
+  {
+   "id": "2026-11-25_learn_bass_p3_mono",
+   "due": "2026-11-25T17:00+01:00",
+   "caption": "My bass sits at 148 % stereo width. Measured, it's mono.\n\nBASS D in Uhrwerk aus Blut: Serum 2, Saturator, EQ Eight, then Utility at 148 % width with Bass Mono at 120 Hz. In the drop the side signal sits 43 dB under the middle, left/right correlation 1.00 in every band.\n\nWidth only scales the difference between left and right. The signal reaching Utility is already the same on both sides, so there is nothing to widen.\n\nBass Mono off: same level, correlation still 1.00. In the full drop, everything below 120 Hz measures correlation 1.00.\n\nUhrwerk aus Blut is out now. New Psychedelic Death Art at 210 BPM. Mastering: link in bio.\n\nDo you get bass width from the source or from a width knob?\n\n#sounddesign #mixing #abletonlive #newpsychedelicdeathart",
+   "image_urls": [],
+   "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-11-25_learn_bass_p3_mono/cc_learn_bass_p3_mono_9x16.mp4",
    "thumb_offset": 600
   }
  ]
