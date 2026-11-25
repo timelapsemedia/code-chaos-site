@@ -1,15 +1,7 @@
 {
  "marke": "codechaos",
- "stand": "2026-11-25T15:10+01:00",
+ "stand": "2026-11-25T18:10+01:00",
  "posts": [
-  {
-   "id": "2026-11-25_learn_bass_p3_mono",
-   "due": "2026-11-25T17:00+01:00",
-   "caption": "My bass sits at 148 % stereo width. Measured, it's mono.\n\nBASS D in Uhrwerk aus Blut: Serum 2, Saturator, EQ Eight, then Utility at 148 % width with Bass Mono at 120 Hz. In the drop the side signal sits 43 dB under the middle, left/right correlation 1.00 in every band.\n\nWidth only scales the difference between left and right. The signal reaching Utility is already the same on both sides, so there is nothing to widen.\n\nBass Mono off: same level, correlation still 1.00. In the full drop, everything below 120 Hz measures correlation 1.00.\n\nUhrwerk aus Blut is out now. New Psychedelic Death Art at 210 BPM. Mastering: link in bio.\n\nDo you get bass width from the source or from a width knob?\n\n#sounddesign #mixing #abletonlive #newpsychedelicdeathart",
-   "image_urls": [],
-   "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-11-25_learn_bass_p3_mono/cc_learn_bass_p3_mono_9x16.mp4",
-   "thumb_offset": 600
-  },
   {
    "id": "2026-11-26_plugin_p07_crucible_types",
    "due": "2026-11-26T12:00+01:00",
