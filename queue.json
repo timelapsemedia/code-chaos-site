@@ -1,15 +1,7 @@
 {
  "marke": "codechaos",
- "stand": "2026-11-26T09:10+01:00",
+ "stand": "2026-11-26T14:10+01:00",
  "posts": [
-  {
-   "id": "2026-11-26_plugin_p07_crucible_types",
-   "due": "2026-11-26T12:00+01:00",
-   "caption": "Same bass, same 12 dB of drive. Only the saturation type changes.\n\nI put Crucible on the bass of my 210 BPM track, all three bands on the same type, 12 dB of drive each, and matched every take to the same loudness. Then I measured how much of the sound sits between 3 and 12 kHz compared with the dry bass:\n\nTape +2.3 dB\nTube +1.4 dB\nDiode +1.8 dB\nHard Clip +3.4 dB\nWavefolder +6.3 dB\n\nSame knob, five different characters.\n\nCrucible: 3-band saturation, five types per band, oversampling up to 8x, VST3 for Windows. The demo is the complete plugin with a short quiet noise burst every 45 seconds. Link in bio.\n\nWhich type would you put on your bass?\n\nDE: Gleicher Bass, gleiche 12 dB Drive, nur der Sättigungstyp wechselt. Pegelgleich gemessen, Anteil 3–12 kHz gegenüber dem trockenen Bass: Tape +2,3 dB, Tube +1,4, Diode +1,8, Hard Clip +3,4, Wavefolder +6,3. Demo gratis, Link in der Bio.\n\n#codechaos #audioplugin #saturation #sounddesign #newpsychedelicdeathart",
-   "image_urls": [],
-   "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-11-26_plugin_p07_crucible_types/cc_plugin_p07_crucible_types_9x16.mp4",
-   "thumb_offset": 600
-  },
   {
    "id": "2026-11-27_bf_start",
    "due": "2026-11-27T09:00+01:00",
