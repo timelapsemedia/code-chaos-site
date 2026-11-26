@@ -1,6 +1,6 @@
 {
  "marke": "codechaos",
- "stand": "2026-11-26T14:10+01:00",
+ "stand": "2026-11-26T19:10+01:00",
  "posts": [
   {
    "id": "2026-11-27_bf_start",
@@ -9,6 +9,14 @@
    "image_urls": [],
    "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-11-27_bf_start/cc_bf_start_2026-11-27_9x16.mp4",
    "thumb_offset": 600
+  },
+  {
+   "id": "2026-11-27_wg1_short_5",
+   "due": "2026-11-27T19:00+01:00",
+   "caption": "This is Chaos. Code Pandorum Online.\n\nRotten Soil by Code Pandorum, track 5 and finale of Wiedergänger Vol. I: 260 BPM, orchestra hits, a halftime wobble like breath rising from the earth. Out everywhere December 4.\n\n(Image created with AI)\n\nRotten Soil von Code Pandorum, Track 5 und Finale von Wiedergänger Vol. I: 260 BPM, Orchester-Hits, ein Halftime-Wobble wie Atem aus der Erde. Am 04.12. überall.\n\n(Bild mit KI erstellt)\n#codechaos #codepandorum #psycore #hitech #newpsychedelicdeathart",
+   "image_urls": [],
+   "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-11-27_wg1_short_5/wg1_short_5_rotten_soil_9x16.mp4",
+   "thumb_offset": 500
   }
  ]
 }
