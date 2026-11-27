@@ -1,15 +1,7 @@
 {
  "marke": "codechaos",
- "stand": "2026-11-26T19:10+01:00",
+ "stand": "2026-11-27T09:20+01:00",
  "posts": [
-  {
-   "id": "2026-11-27_bf_start",
-   "due": "2026-11-27T09:00+01:00",
-   "caption": "Your cart has been empty long enough.\n\nBlack Friday is live at Code Chaos Audio. Code BLACKFRIDAY works on every product in the store, both Black Metal Suite bundles included, until Monday, 30 November, 23:59 CET. The full list is in the reel, the store link is in the bio.\n\nBundle or single plugin: what are you grabbing first?\n\nBlack Friday läuft bei Code Chaos Audio. Der Code BLACKFRIDAY gilt für jedes Produkt im Store, beide Black-Metal-Suite-Bundles inklusive, bis Montag, 30. November, 23:59 Uhr. Die ganze Liste steht im Reel, der Link zum Store im Profil.\n\n(Image created with AI / Bild mit KI erstellt)\n#blackfriday #codechaos #sounddesign #abletonlive #newpsychedelicdeathart",
-   "image_urls": [],
-   "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-11-27_bf_start/cc_bf_start_2026-11-27_9x16.mp4",
-   "thumb_offset": 600
-  },
   {
    "id": "2026-11-27_wg1_short_5",
    "due": "2026-11-27T19:00+01:00",
@@ -17,6 +9,16 @@
    "image_urls": [],
    "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-11-27_wg1_short_5/wg1_short_5_rotten_soil_9x16.mp4",
    "thumb_offset": 500
+  },
+  {
+   "id": "2026-11-21_radio_live_now",
+   "due": "2026-11-27T09:30+01:00",
+   "caption": "🔴 CODE CHAOS RADIO is live. 24/7. Right now.\n\nNon-stop New Psychedelic Death Art: hitech, psycore and darkpsy from 180 to 300+ BPM. Every track by Code Chaos, around the clock.\n\nTune in on YouTube, Twitch, Kick, Rumble, X, Facebook and Odysee. Every track is a free download on Bandcamp: link in bio.\n\n(Image created with AI)\n\nCode Chaos Radio läuft jetzt live, rund um die Uhr. Hitech, Psycore und Darkpsy, nur Code Chaos. Auf YouTube, Twitch, Kick, Rumble, X, Facebook und Odysee. Alle Tracks gratis auf Bandcamp: Link in der Bio.\n\n(Bild mit KI erstellt)\n#hitech #psycore #darkpsy #psytrance #codechaos",
+   "image_urls": [
+    "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-11-21_radio_live_now/cc_radio_live_2026-11-21_4x5.jpg"
+   ],
+   "video_url": null,
+   "thumb_offset": null
   }
  ]
 }
