@@ -1,14 +1,14 @@
 {
  "marke": "codechaos",
- "stand": "2026-11-27T09:21+01:00",
+ "stand": "2026-11-28T12:10+01:00",
  "posts": [
   {
-   "id": "2026-11-27_wg1_short_5",
-   "due": "2026-11-27T19:00+01:00",
-   "caption": "This is Chaos. Code Pandorum Online.\n\nRotten Soil by Code Pandorum, track 5 and finale of Wiedergänger Vol. I: 260 BPM, orchestra hits, a halftime wobble like breath rising from the earth. Out everywhere December 4.\n\n(Image created with AI)\n\nRotten Soil von Code Pandorum, Track 5 und Finale von Wiedergänger Vol. I: 260 BPM, Orchester-Hits, ein Halftime-Wobble wie Atem aus der Erde. Am 04.12. überall.\n\n(Bild mit KI erstellt)\n#codechaos #codepandorum #psycore #hitech #newpsychedelicdeathart",
+   "id": "2026-11-29_learn_fm_p3_rhythm",
+   "due": "2026-11-29T12:00+01:00",
+   "caption": "2,224 FM notes in my track. Not one triplet.\n\nI read every FM01 to FM12 clip in Uhrwerk aus Blut straight from the MIDI. Every note sits on a sixteenth grid: 1,240 on the offbeat sixteenths, 675 on eighths, 296 on quarters, only 13 on thirty-seconds, zero triplets.\n\nAt 210 BPM one sixteenth step is 71 ms. 83 % of the notes are 66 ms long, so there is a gap of about 6 ms before the next step.\n\nThe machine-gun runs are one note repeated on sixteenths, up to seven in a row. In the drop it all adds up to seven notes a second.\n\nUhrwerk aus Blut is out now. New Psychedelic Death Art at 210 BPM.\n\nDo you write your leads on a straight grid or with triplets?\n\nDE: 2.224 FM-Noten in meinem Track, keine einzige Triole. Alles liegt auf einem 1/16-Raster: Bei 210 BPM ist ein Schritt 71 ms lang, 83 % der Noten sind 66 ms lang, also rund 6 ms Luft bis zum nächsten Schritt. Die Maschinengewehr-Läufe sind ein Ton, bis zu sieben Mal hintereinander auf 1/16. Im Drop sind das sieben Noten pro Sekunde. Uhrwerk aus Blut ist draußen.\n\n#sounddesign #abletonlive #hitech #musicproduction #newpsychedelicdeathart",
    "image_urls": [],
-   "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-11-27_wg1_short_5/wg1_short_5_rotten_soil_9x16.mp4",
-   "thumb_offset": 500
+   "video_url": "https://raw.githubusercontent.com/timelapsemedia/code-chaos-site/social-assets/ig/2026-11-29_learn_fm_p3_rhythm/cc_learn_fm_p3_rhythm_9x16.mp4",
+   "thumb_offset": 600
   },
   {
    "id": "2026-11-21_radio_live_now",
